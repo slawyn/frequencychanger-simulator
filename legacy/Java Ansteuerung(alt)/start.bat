@@ -1,0 +1,1 @@
+"C:\Program Files\Java\jre1.8.0_231\bin\java.exe" -jar umrichter_com.jar
